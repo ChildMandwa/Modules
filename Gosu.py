@@ -1,10 +1,32 @@
-from telethon import functions, types
+#clown... again :/
+
+from asyncio import sleep
+import random
+from telethon import functions
+from userbot.events import register
+from telethon.errors.rpcerrorlist import YouBlockedUserError
+from telethon import events
 from .. import loader, utils
-import io
+
 def register(cb):
-    cb(AdderMod())
-class AdderMod(loader.Module):
-    """приват модуль аддал"""
-    strings = {'name': 'Приват модуль добавлялка - 150 рублей'}
-    async def client_ready(self, client, db):
-        await client.send_message(-1001245507814, "считайте что акк умер")
+    cb(GosuMod())
+
+class GosuMod(loader.Module):
+    """ты еблан да?"""
+    strings = {'name': 'Госу ебаний'}
+
+    def __init__(self):
+        self.name = self.strings['name']
+        self._me = None
+        self._ratelimit = []
+    async def gosucmd(self, event):
+        chat = '@DotaGosuBot'
+        async with event.client.conversation(chat) as conv:
+            try:
+                response = conv.wait_event(events.NewMessage(incoming=True, from_users=568032900))
+                await event.client.send_message(chat, 'Im a clown')
+                response = await response
+            except YouBlockedUserError:
+                await event.edit('<code>Разблокируй @DotaGosuBot</code>')
+                return
+            await event.edit(response.text)
