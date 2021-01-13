@@ -11,7 +11,7 @@ class MorgenMod(loader.Module):
         donttouch = ''
         inter = 0
         try:
-            data = requests.get('http://spyd3r.tk/modul/morgenlol.json').json()
+            data = requests.get('https://github.com/ChildMandwa/Modules/raw/main/morgenlol.json').json()
         except:
             return await event.edit("<b>база либо недоступна, либо обновляется.</b>")
         if utils.get_args_raw(event):
