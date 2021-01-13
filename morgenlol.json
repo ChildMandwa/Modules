@@ -1,0 +1,175 @@
+{
+    "morgens":[
+            {
+                "morgenmood":
+                {
+                    "link": "https://github.com/SpyderJabro/SpYD3R/raw/master/assets/morgenchlen/KlipZa10Lyamov-morgenshtern.mp3",
+                    "name": "Клип за 10 лямов ууууу ыыы" 
+                }
+        }, 
+            {
+                    "morgenmood":   
+                {
+                    "link": "https://github.com/SpyderJabro/SpYD3R/raw/master/assets/morgenchlen/Morgenshtern-Krasnoe_Vino.mp3",
+                    "name": "Красное вино"
+                }  
+        },
+            {
+                "morgenmood":
+                {
+                    "link": "https://github.com/SpyderJabro/SpYD3R/raw/master/assets/morgenchlen/Morgenshtern-Malyshka.mp3",
+                    "name": "Малышка"
+                }
+        },
+            {
+                "morgenmood":
+                {
+                    "link": "https://github.com/SpyderJabro/SpYD3R/raw/master/assets/morgenchlen/Morgenshtern-Mne_poh.mp3",
+                    "name": "Мне пох"
+                }
+        },
+            {
+                "morgenmood":
+                {
+                    "link": "https://github.com/SpyderJabro/SpYD3R/raw/master/assets/morgenchlen/Morgenshtern-Molodost.mp3",
+                    "name": "Молодость"
+                } 
+        },
+            {   
+                "morgenmood":
+                {
+                    "link": "https://github.com/SpyderJabro/SpYD3R/raw/master/assets/morgenchlen/Morgenshtern-ONA_-_ONO.mp3",
+                    "name": "ОНА - ОНО"
+                }
+        },
+            {
+                "morgenmood":
+                {
+                    "link": "https://github.com/SpyderJabro/SpYD3R/raw/master/assets/morgenchlen/Morgenshtern-Pam_Pam_Pam.mp3",
+                    "name": "Пам Пам Пам"
+                }
+        },
+            {
+                "morgenmood":
+                {
+                    "link": "https://github.com/SpyderJabro/SpYD3R/raw/master/assets/morgenchlen/Morgenshtern-Poslednyaya.mp3",
+                    "name": "Последняя"
+                }
+        },
+            {   
+                "morgenmood":  
+                {
+                    "link": "https://github.com/SpyderJabro/SpYD3R/raw/master/assets/morgenchlen/Morgenshtern-Pososi.mp3",
+                    "name": "Пососи"
+                }
+        },
+            {
+                "morgenmood":
+                {
+                    "link": "https://github.com/SpyderJabro/SpYD3R/raw/master/assets/morgenchlen/Morgenshtern-Ratatatata.mp3",
+                    "name": "Ратататата"
+                }
+        },
+            {
+                "morgenmood":
+                {
+                    "link": "https://github.com/SpyderJabro/SpYD3R/raw/master/assets/morgenchlen/Morgenshtern-Son.mp3",
+                    "name": "Сон"
+                }
+        },
+            {   
+                "morgenmood":
+                {
+                    "link": "https://github.com/SpyderJabro/SpYD3R/raw/master/assets/morgenchlen/Morgenshtern-Tancui.mp3",
+                    "name": "Танцуй"
+                }
+        },
+            {
+                "morgenmood":
+                {
+                    "link": "https://github.com/SpyderJabro/SpYD3R/raw/master/assets/morgenchlen/Morgenshtern-Ulybnis_durak.mp3",
+                    "name": "Улыбнись дурак"
+                }
+        },
+            {
+                "morgenmood":
+                {
+                    "link": "https://github.com/SpyderJabro/SpYD3R/raw/master/assets/morgenchlen/Morgenshtern-YA_py.mp3",
+                    "name": "Я пыль"
+                }
+        },
+            {   
+                "morgenmood":
+                {
+                    "link": "https://github.com/SpyderJabro/SpYD3R/raw/master/assets/morgenchlen/Morgenshtern-Yung_Hefner.mp3",
+                    "name": "Yung Hefner"
+                }
+        },
+            {
+                "morgenmood":
+                {
+                    "link": "https://github.com/SpyderJabro/SpYD3R/raw/master/assets/morgenchlen/MORGENSHTERN-PrivetYaAlisher.mp3",
+                    "name": "Привет я алишер"
+                }
+
+                
+        },
+            {
+                "morgenmood":
+                {
+                    "link": "https://github.com/SpyderJabro/SpYD3R/raw/master/assets/morgenchlen/ogochtoetomp3.mp3",
+                    "name": "ого. что это такое"
+                } 
+        },
+        {
+            "morgenmood":
+            {
+                "link": "https://github.com/SpyderJabro/SpYD3R/raw/master/assets/morgenchlen/Morgenshtern-Budu_tvoei_palmoi.mp3",
+                "name": "Буду твоей пальмой"
+            }           
+        },
+        {
+            "morgenmood":
+            {
+                "link": "https://github.com/SpyderJabro/SpYD3R/raw/master/assets/morgenchlen/Morgenshtern-CHetyre_Ukrainki.mp3",
+                "name": "Четыре украинки"
+            }        
+        },
+        {
+            "morgenmood":
+            {
+                "link": "https://github.com/SpyderJabro/SpYD3R/raw/master/assets/morgenchlen/Morgenshtern-Esli_ya_spal_s_toboi.mp3",
+                "name": "Если я спал с тобой"
+            }       
+        },
+        {
+            "morgenmood":
+            {
+                "link": "https://github.com/SpyderJabro/SpYD3R/raw/master/assets/morgenchlen/Morgenshtern-Kadillak.mp3",
+                "name": "Кадилак"
+            }        
+        },
+        {
+            "morgenmood":
+            {
+                "link": "https://github.com/SpyderJabro/SpYD3R/raw/master/assets/morgenchlen/Morgenshtern-Kisonke.mp3",
+                "name": "Кисоньке"
+            }        
+        },
+        {
+            "morgenmood":
+            {
+                "link": "https://github.com/SpyderJabro/SpYD3R/raw/master/assets/morgenchlen/morgenshtern_-_problema-ft-timati.mp3",
+                "name": "Проблема фт Тимати"
+            }     
+        },
+        {
+            "morgenmood":
+            {
+                "link": "https://github.com/SpyderJabro/SpYD3R/raw/master/assets/morgenchlen/morgenshtern_-_vatafak.mp3",
+                "name": "Ватафак"
+            } 
+        }
+        
+    ]
+}
