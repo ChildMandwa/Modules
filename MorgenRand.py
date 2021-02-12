@@ -2,6 +2,7 @@ from .. import loader, utils
 import requests
 from random import choice as morgenchoicer
 import io
+from telethon import functions, types
 def register(cb):
     cb(MorgenMod())
 class MorgenMod(loader.Module):
