@@ -2,6 +2,7 @@ from .. import loader, utils
 from requests import get
 from io import BytesIO
 from random import randint, choice
+from telethon import functions, types
 from PIL import Image, ImageFont, ImageDraw
 from textwrap import wrap
 
